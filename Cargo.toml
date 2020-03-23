@@ -1,11 +1,11 @@
 [package]
 name = "partial-uninit"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["kgv <kgv@users.noreply.github.com>"]
 license = "MIT OR Apache-2.0"
 description = "A trait to construct partial uninitialized instances."
 homepage = "https://crates.io/crates/partial-uninit"
-documentation = "https://docs.rs/async-trait/partial-uninit"
+documentation = "https://docs.rs/partial-uninit"
 repository = "https://github.com/kgv/partial-uninit"
 readme = "README.md"
 edition = "2018"
